@@ -49,7 +49,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/juniorHotes/Proffy.git
+$ git clone https://github.com/juniorHotes/Proffy
 ```
 ### 📦 Rode a API
 
@@ -96,7 +96,7 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 # :bug: Problemas
 
-Fique a vontade **para iniciar uma issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/juniorHotes/Proffy.git/issues) Repositorio. Se você já encontrou a solução para o problema.
+Fique a vontade **para iniciar uma issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/juniorHotes/Proffy/issues) Repositorio. Se você já encontrou a solução para o problema.
 
 # :tada: Contribuindo
 
